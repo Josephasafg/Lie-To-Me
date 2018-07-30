@@ -6,4 +6,6 @@ Here's joke to start on the right foot:
 Q: Why did the functions stop calling each other? 
 A: Because they had constant arguments. :D
 
+Thank you Asaf for the marvelous introduction...
+
 Good luck! 
