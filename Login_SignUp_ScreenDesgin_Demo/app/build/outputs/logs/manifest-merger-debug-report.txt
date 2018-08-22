@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\568b2bf9b38c55f93576ea343fd8a599\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\72265930a5329dfee61f9c7d361ed29c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\56a9f5cbb09068686a2545ab9b7e9d9f\AndroidManifest.xml:2:1-11:12
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\568b2bf9b38c55f93576ea343fd8a599\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\568b2bf9b38c55f93576ea343fd8a599\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\72265930a5329dfee61f9c7d361ed29c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\72265930a5329dfee61f9c7d361ed29c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\56a9f5cbb09068686a2545ab9b7e9d9f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\56a9f5cbb09068686a2545ab9b7e9d9f\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.INTERNET
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.CAMERA
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:16:5-64
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:19:22-76
+application
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:20:5-37:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\568b2bf9b38c55f93576ea343fd8a599\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\568b2bf9b38c55f93576ea343fd8a599\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\72265930a5329dfee61f9c7d361ed29c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\72265930a5329dfee61f9c7d361ed29c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\56a9f5cbb09068686a2545ab9b7e9d9f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] G:\Docs from C\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\56a9f5cbb09068686a2545ab9b7e9d9f\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.login_signup_screendesign_demo.MainActivity
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.login_signup_screendesign_demo.TemparyActitvity
+ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:34:9-36:81
+	android:label
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from G:\Sofy2018\HIT\shana bet\summer\project\Login_SignUp_ScreenDesgin_Demo\app\src\main\AndroidManifest.xml:35:13-45
